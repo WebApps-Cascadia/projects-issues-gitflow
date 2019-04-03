@@ -4,5 +4,4 @@
 //       ... then commit and create pull request to develop
 
 Brian Bansenauer : Bansenauer-Cascadia
-
 Keith Rutler : keithrutler
