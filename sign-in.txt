@@ -4,4 +4,5 @@
   ... then commit, pull origin develop, merge develop into your branch, push origin feature, and review your pull request
   
 - Brian Bansenauer, github:Bansenauer-Cascadia
+- Keith Rutler, github:keithrutler
 - Adam Kohler, github:adamkohler
