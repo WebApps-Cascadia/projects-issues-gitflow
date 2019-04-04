@@ -3,5 +3,4 @@
 //TODO: Please put your name and github username AS SHOWN below ... 
 //       ... then commit and create pull request to develop
 
-Brian Bansenauer : Bansenauer-Cascadia
-Kevin Durgan : Durgan-Cascadia
+Brian Bansenauer  :  Bansenauer-Cascadia
