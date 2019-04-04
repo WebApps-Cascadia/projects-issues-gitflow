@@ -3,9 +3,5 @@
 //TODO: Please put your name and github username AS SHOWN below ... 
 //       ... then commit and create pull request to develop
 
-<<<<<<< issue12sruble
 Brian Bansenauer : Bansenauer-Cascadia
 Sim Ruble : sruble  
-=======
-Dr. Brian Bansenauer:Bansenauer-Cascadia
->>>>>>> develop
