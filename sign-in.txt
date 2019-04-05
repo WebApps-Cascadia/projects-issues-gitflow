@@ -3,8 +3,9 @@
 //TODO: Please put your name and github username AS SHOWN below ... 
 
   ... then commit, pull origin develop, merge develop into your branch, 
-  push origin feature, and review your pull request
-  
+  push origin feature, and review your pull request 
+
 Brian Bansenauer : Bansenauer-Cascadia
 Sara Ansari : Sansari246
+
 
