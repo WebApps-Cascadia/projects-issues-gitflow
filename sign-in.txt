@@ -5,6 +5,7 @@ This is an incredibly useful text document.
   push origin feature, and review your pull request 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Brian Bansenauer : Bansenauer-Cascadia
 - Keith Rutler, github:keithrutler
 - Sara Ansari : Sansari246
@@ -13,3 +14,8 @@ This is an incredibly useful text document.
 =======
 Max Ignatyev : maxignatyev
 >>>>>>> 6cccfe6... done
+=======
+Brian Bansenauer  :  Bansenauer-Cascadia
+
+Max Ignatyev : maxignatyev
+>>>>>>> c89f25b... added max
