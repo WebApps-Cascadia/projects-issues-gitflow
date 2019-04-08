@@ -11,10 +11,4 @@
 - Willie Weber, github:weberwilliamb
 - Kevin Durgan, github: ksdurg
 - Sim Ruble : sruble
-
-<<<<<<< HEAD
-Brian Bansenauer  :  Bansenauer-Cascadia
-
-Max Ignatyev : maxignatyev
-=======
->>>>>>> 72be01869ac03fad875b46d50b339b1382e7066b
+- Max Ignatyev : maxignatyev
