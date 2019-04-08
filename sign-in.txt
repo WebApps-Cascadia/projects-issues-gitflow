@@ -10,5 +10,5 @@
 - Alex Sparks : AlexKSparks
 - Willie Weber, github:weberwilliamb
 - Kevin Durgan, github: ksdurg
-- Sim Ruble : sruble
+- Sim Ruble, github: sruble
 
