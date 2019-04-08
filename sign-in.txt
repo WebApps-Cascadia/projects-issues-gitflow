@@ -1,8 +1,20 @@
 ﻿This is an incredibly useful text document.
 //TODO: Be sure you have created a feature branch from develop 
 //TODO: Please put your name and github username AS SHOWN below ... 
-//       ... then commit and create pull request to develop
+-  ... then commit, pull origin develop, merge develop into your branch, push origin feature, and review your pull request 
 
+- Brian Bansenauer : Bansenauer-Cascadia
+- Keith Rutler, github:keithrutler
+- Sara Ansari : Sansari246
+- Adam Kohler, github:adamkohler
+- Alex Sparks : AlexKSparks
+- Willie Weber, github:weberwilliamb
+- Kevin Durgan, github: ksdurg
+- Sim Ruble : sruble
+
+<<<<<<< HEAD
 Brian Bansenauer  :  Bansenauer-Cascadia
 
 Max Ignatyev : maxignatyev
+=======
+>>>>>>> 72be01869ac03fad875b46d50b339b1382e7066b
