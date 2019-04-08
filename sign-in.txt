@@ -1,4 +1,4 @@
-﻿﻿This is an incredibly useful text document.
+﻿This is an incredibly useful text document.
 //TODO: Be sure you have created a feature branch from develop 
 //TODO: Please put your name and github username AS SHOWN below ... 
 -  ... then commit, pull origin develop, merge develop into your branch, push origin feature, and review your pull request 
@@ -11,4 +11,4 @@
 - Willie Weber, github:weberwilliamb
 - Kevin Durgan, github: ksdurg
 - Sim Ruble : sruble
-
+- Max Ignatyev : maxignatyev
