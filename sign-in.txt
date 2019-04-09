@@ -12,3 +12,4 @@
 - Kevin Durgan, github: ksdurg
 - Sim Ruble : sruble
 - Max Ignatyev : maxignatyev
+- Eric Ro, github: Ro914
