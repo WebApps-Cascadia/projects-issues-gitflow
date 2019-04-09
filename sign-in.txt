@@ -10,10 +10,6 @@
 - Alex Sparks : AlexKSparks
 - Willie Weber, github:weberwilliamb
 - Kevin Durgan, github: ksdurg
-<<<<<<< HEAD
-- Eric Ro, github: Ro914
-
-=======
 - Sim Ruble : sruble
 - Max Ignatyev : maxignatyev
->>>>>>> 3d38a87219b9f0b6dd1dd6a48d59c7872b36b185
+- Eric Ro, github: Ro914
