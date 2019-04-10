@@ -13,3 +13,4 @@
 - Sim Ruble : sruble
 - Max Ignatyev : maxignatyev
 - Eric Ro, github: Ro914
+- Daniel Watkins, Daniel-Watkins
