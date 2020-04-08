@@ -27,7 +27,9 @@ namespace Projects_Issues_GitFlow
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello World!");
+                
+                string data = System.IO.File.ReadAllText("sign-in.txt", System.Text.Encoding.UTF8);
+                await context.Response.WriteAsync(data);
             });
         }
     }
