@@ -5,3 +5,4 @@
         
        NAME        :   GitHub USERNAME 
 - Brian Bansenauer : Bansenauer-Cascadia
+- Edmund Chan      : edmundchan8
