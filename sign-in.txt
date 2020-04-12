@@ -5,4 +5,4 @@
         
        NAME        :   GitHub USERNAME 
 - Brian Bansenauer : Bansenauer-Cascadia
-- Gori Jesionowski : gjesionowski
+- Gori Jesionowski : gjesionowski 
