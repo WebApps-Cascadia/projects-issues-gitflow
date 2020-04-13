@@ -3,5 +3,7 @@
 //TODO: Edit this document to put your name and github username below the last name on the list below ... 
         ... then commit, push your feature branch to GitHub, and create (or review) your pull request
         
-       NAME        :   GitHub USERNAME 
-     Matin Mirzaei : MatinMirzaei
+          NAME           GitHub USERNAME 
+    ----------------    -----------------
+   - Brian Bansenauer    Bansenauer-Cascadia
+   - Matin Mirzaei       MatinMirzaei
