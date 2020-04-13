@@ -7,4 +7,4 @@
   ________________   ___________________
   Brian Bansenauer   Bansenauer-Cascadia
   Roger L            Floydfix
-  Gori Jesionowski : gjesionowski
+  Gori Jesionowski   gjesionowski
