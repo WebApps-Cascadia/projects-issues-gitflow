@@ -8,5 +8,6 @@
   Brian Bansenauer  |  Bansenauer-Cascadia
   Roger L           |  Floydfix
   Gori Jesionowski  |  gjesionowski
-  Edmund Chan          edmundchan8
+  Edmund Chan       |   edmundchan8
   Richard Tae       |  taerichard
+  Nathanael Rorberg |  NathanaelRorberg
