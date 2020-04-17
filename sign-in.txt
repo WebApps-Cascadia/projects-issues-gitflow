@@ -1,4 +1,4 @@
-﻿//TODO: Be sure you have pulled develop and merged it into your feature branch 
+﻿﻿//TODO: Be sure you have pulled develop and merged it into your feature branch 
         (created a feature branch with your name from develop if you don't have one yet)
 //TODO: Edit this document to put your name and github username below the last name on the list below ... 
         ... then commit, push your feature branch to GitHub, and create (or review) your pull request
@@ -7,4 +7,6 @@
   ________________  |  ___________________
   Brian Bansenauer  |  Bansenauer-Cascadia
   Roger L           |  Floydfix
-  Alain N           |  AlainNshimirimana
+  Gori Jesionowski  |  gjesionowski
+  Edmund Chan       |  edmundchan8
+  Nathanael Rorberg |  NathanaelRorberg
