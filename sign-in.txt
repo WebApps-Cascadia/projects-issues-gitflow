@@ -9,4 +9,5 @@
   Roger L           |  Floydfix
   Gori Jesionowski  |  gjesionowski
   Edmund Chan       |  edmundchan8
-  Will Suttner		|  SkutchWill
+  Nathanael Rorberg |  NathanaelRorberg
+  Alain N           |  AlainNshimirimana
