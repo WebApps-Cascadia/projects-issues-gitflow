@@ -11,3 +11,6 @@
   Edmund Chan       |   edmundchan8
   Richard Tae       |  taerichard
   Nathanael Rorberg |  NathanaelRorberg
+  Alain N           |  AlainNshimirimana
+  Will Suttner      |  SkutchWill
+
