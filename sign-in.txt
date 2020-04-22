@@ -9,9 +9,9 @@
   Roger L           |  Floydfix
   Gori Jesionowski  |  gjesionowski
   Edmund Chan       |   edmundchan8
-  Richard Tae       |  taerichard
   Nathanael Rorberg |  NathanaelRorberg
   Alain N           |  AlainNshimirimana
   Will Suttner      |  SkutchWill
   Nathan Taylor     |  nateptay
   Madelyn L         |  MadelynMLeahu
+  Richard Tae       |  taerichard
