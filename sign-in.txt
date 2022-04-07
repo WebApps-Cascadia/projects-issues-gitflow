@@ -5,4 +5,4 @@
         
        NAME         |   GitHub USERNAME
   ________________  |  ___________________
-  Brian Bansenauer  |  Bansenauer-Cascadia
+    Blanka Peller   |     BlankaPeller
