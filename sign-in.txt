@@ -6,7 +6,5 @@
        NAME             GitHub USERNAME
   ________________     ___________________
   Brian Bansenauer     Bansenauer-Cascadia
-  Micah Cave           Evachacim
-       NAME         |   GitHub USERNAME
-  ________________  |  ___________________
-    Blanka Peller   |     BlankaPeller
+  Micah Cave           Evachacim 
+  Blanka Peller        BlankaPeller
