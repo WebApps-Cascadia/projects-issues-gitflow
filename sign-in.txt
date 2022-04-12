@@ -4,7 +4,8 @@
         ... then commit, push your feature branch to GitHub, and create (or review) your pull request
         
        NAME             GitHub USERNAME
-  ________________     ___________________
-  Brian Bansenauer     Bansenauer-Cascadia
-  Micah Cave           Evachacim 
-  Blanka Peller        BlankaPeller
+  ________________  | ___________________
+  Brian Bansenauer  |   Bansenauer-Cascadia
+  Micah Cave        |   Evachacim
+  Blanka Peller     |   BlankaPeller
+  Andrew Bradford   |   ABWeb-Dev
