@@ -4,4 +4,4 @@
         ... then commit, push your feature branch to GitHub, and create (or review) your pull request
         
        NAME        :   GitHub USERNAME 
-- Brian Bansenauer : Bansenauer-Cascadia
+  Brian Bansenauer : Bansenauer-Cascadia
