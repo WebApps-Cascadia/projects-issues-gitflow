@@ -3,6 +3,7 @@
 //TODO: Edit this document to put your name and github username below the last name on the list below ... 
         ... then commit, push your feature branch to GitHub, and create (or review) your pull request
         
+<<<<<<< HEAD:sign-in.txt
        NAME             GitHub USERNAME
   ________________  | ___________________
   Brian Bansenauer  |   Bansenauer-Cascadia
@@ -10,3 +11,8 @@
   Blanka Peller     |   BlankaPeller
   Andrew Bradford   |   ABWeb-Dev
   Ahmed Elhadi      |   Sovian
+=======
+       NAME        :   GitHub USERNAME 
+  Brian Bansenauer : Bansenauer-Cascadia
+
+>>>>>>> test:wwwroot/sign-in.txt
