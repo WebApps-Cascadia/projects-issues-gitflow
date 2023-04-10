@@ -18,6 +18,7 @@ TODO: Edit this document to put your name and github username below the last nam
   Blanka Peller     |   BlankaPeller
   Andrew Bradford   |   ABWeb-Dev
   Ahmed Elhadi      |   Sovian
+  Shelby Holmes     |   snholmes
 =======
        NAME        :   GitHub USERNAME 
   Brian Bansenauer : Bansenauer-Cascadia
