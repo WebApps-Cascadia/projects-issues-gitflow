@@ -1,4 +1,4 @@
-﻿NAME             GitHub USERNAME
+NAME             GitHub USERNAME
   ________________  | ___________________
   Brian Bansenauer  |   Bansenauer-Cascadia
   Shelby Holmes     |   snholmes
