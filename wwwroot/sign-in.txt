@@ -1,4 +1,4 @@
-﻿SIGN-IN.TXT
+SIGN-IN.TXT
 
 TODO: Be sure you have pulled develop and merged it into your feature branch 
         (created a feature branch with your name from develop if you don't have one yet)
@@ -18,6 +18,7 @@ TODO: Edit this document to put your name and github username below the last nam
   Blanka Peller     |   BlankaPeller
   Andrew Bradford   |   ABWeb-Dev
   Ahmed Elhadi      |   Sovian
+  Noah Ku           |   darthcod3r
 =======
        NAME        :   GitHub USERNAME 
   Brian Bansenauer : Bansenauer-Cascadia
