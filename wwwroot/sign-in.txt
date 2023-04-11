@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 ﻿       NAME        :   GitHub USERNAME 
   Brian Bansenauer : Bansenauer-Cascadia
   Parker Williams  : ParkerW98
+=======
+SIGN-IN.TXT
+
+Done When: Your name and github username are listed below the last name on the list below ... 
+        (... then commit, push your feature branch to GitHub, and create (or review) your pull request)
+        
+       NAME             GitHub USERNAME
+  ________________  | ___________________
+  Brian Bansenauer  |   Bansenauer-Cascadia
+>>>>>>> 4a93fc76c4d975374665774b9deb916c7c265eaa
