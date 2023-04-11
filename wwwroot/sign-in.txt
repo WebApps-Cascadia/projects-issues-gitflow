@@ -1,8 +1,8 @@
 SIGN-IN.TXT
 
-Done When: Your name and github username are listed below the last name on the list below ... 
+Done When: Your first name and github username are listed below the last name on the list below ... 
         (... then commit, push your feature branch to GitHub, and create (or review) your pull request)
         
        NAME             GitHub USERNAME
   ________________  | ___________________
-  Brian Bansenauer  |   Bansenauer-Cascadia
+      Brian         |   Bansenauer-Cascadia
