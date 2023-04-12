@@ -1,3 +1,12 @@
+<<<<<<< HEAD
        NAME        :   GitHub USERNAME 
   Brian Bansenauer : Bansenauer-Cascadia
   Parker Williams  : ParkerW98
+=======
+SIGN IN SHEET FOR GITFLOW
+Done When: Your LAST name and github username are listed below the last name on the list below 
+        
+     Last NAME              GitHub USERNAME
+  ________________     | ___________________
+    Bansenauer         |   Bansenauer-Cascadia
+>>>>>>> ef4f233084cfc4873c9a20679d73a9deb5013a20
