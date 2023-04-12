@@ -1,4 +1,4 @@
-NAME             GitHub USERNAME
+	Last NAME			GitHub USERNAME
   ________________  | ___________________
-  Brian			    |   Bansenauer-Cascadia
+  bansenauer		|   Bansenauer-Cascadia
   Shelby Holmes     |   snholmes
