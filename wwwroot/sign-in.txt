@@ -1,4 +1,4 @@
-	Last NAME			GitHub USERNAME
-  ________________  | ___________________
-  bansenauer		|   Bansenauer-Cascadia
-  Shelby Holmes     |   snholmes
+     Last NAME              GitHub USERNAME
+  ________________     | ___________________
+    Bansenauer         |   Bansenauer-Cascadia
+    Shelby Holmes      |   snholmes
