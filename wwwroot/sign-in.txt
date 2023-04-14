@@ -4,6 +4,6 @@ Done When: Your first name and github username are listed below the last name on
 
      Last NAME              GitHub USERNAME
   ________________       | ___________________
-      bansenauer         |   Bansenauer-Cascadia
+      Bansenauer         |   Bansenauer-Cascadia
       Ku                 |   darthcod3r
 
