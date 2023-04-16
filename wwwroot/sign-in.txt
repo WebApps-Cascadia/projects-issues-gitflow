@@ -1,7 +1,7 @@
 SIGN IN SHEET FOR GITFLOW
 Done When: Your LAST name and github username are listed below the last name on the list below 
 
-       NAME             GitHub USERNAME
+       LAST NAME         GitHub USERNAME
   ________________  | ___________________
-  Brian Bansenauer  |   Bansenauer-Cascadia
-  Chad Oswald       |   chadloswald
+  Bansenauer        |   Bansenauer-Cascadia
+  Oswald            |   chadloswald
