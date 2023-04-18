@@ -1,8 +1,10 @@
 
-Done When: Your name and github username are listed below the last name on the list below ... 
-        (... then commit, push your feature branch to GitHub, and create (or review) your pull request)
-        
-       NAME             GitHub USERNAME
+SIGN IN SHEET FOR GITFLOW
+Done When: Your LAST name and github username are listed below the last name on the list below 
+
+       LAST NAME         GitHub USERNAME
   ________________  | ___________________
-  Brian Bansenauer  |   Bansenauer-Cascadia
-        Wilson      |   tylerjacobwilson
+  Bansenauer        |   Bansenauer-Cascadia
+  Oswald            |   chadloswald
+  Ku		        |   darthcod3r
+  Wilson            |   tylerjacobwilson
