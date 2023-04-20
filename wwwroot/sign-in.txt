@@ -6,4 +6,5 @@ Done When: Your LAST name and github username are listed below the last name on 
   ________________  | ___________________
   Bansenauer        |   Bansenauer-Cascadia
   Oswald            |   chadloswald
-  Ku		    |   darthcod3r
+  Ku		        |   darthcod3r
+  Wilson            |   tylerjacobwilson
