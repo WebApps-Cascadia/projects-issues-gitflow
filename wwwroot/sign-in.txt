@@ -7,4 +7,5 @@ Done When: Your LAST name and github username are listed below the last name on 
   Bansenauer        |   Bansenauer-Cascadia
   Oswald            |   chadloswald
   Ku		        |   darthcod3r
+  Wilson            |   tylerjacobwilson
   Holmes            |   snholmes
