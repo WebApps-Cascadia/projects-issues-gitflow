@@ -1,4 +1,4 @@
-# Github Projects and Gitflow
+# Github and Gitflow
 ## Preparation
 - Be sure you have accepted the invitation (via email) to the GitHub Learning team
 
