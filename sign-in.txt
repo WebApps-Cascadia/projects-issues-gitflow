@@ -7,4 +7,3 @@ Done When: Your LAST name and github username are listed below the last name on 
   Bansenauer, Brian   |   Bansenauer-Cascadia
   Fellstrom,  Chase   |    Chasefells
   Dumecquias, Rio     |   rdum4
-  hi
