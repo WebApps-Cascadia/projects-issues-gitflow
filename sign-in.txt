@@ -6,4 +6,4 @@ Done When: Your First and Last name and github username are listed below the las
   ______________     | ___________________
   Brian T Bansenauer |   bansenauer-cascadia
   Chase Fellstrom    |   chasefells
-  Nick Eddington     |   neddington
+  Nick A Eddington     |   neddington
