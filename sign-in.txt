@@ -5,4 +5,4 @@ Done When: Your First and Last name and github username are listed below the las
   First Last             github username
   ______________     | ___________________
   Brian Bansenauer   |   bansenauer-cascadia
-  Chase Fellstrom    |   chasefells
+  Chase Fellstrom    |   Chasefells
