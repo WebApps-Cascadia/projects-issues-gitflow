@@ -1,6 +1,6 @@
 
 SIGN IN SHEET FOR GITFLOW
-Done When: Your First and Last name and github username are listed below the last name on the list below 
+Done When: Your First name, Middle initial, and Last name followed by your github username are listed below the last name in the list
 
   First MI Last             github username
   ______________     | ___________________
